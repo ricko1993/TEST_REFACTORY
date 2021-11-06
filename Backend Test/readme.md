@@ -34,6 +34,6 @@ Diagram Database
 ![Screenshot from 2021-11-06 10-39-58](https://user-images.githubusercontent.com/29254002/140611070-bac7aef4-91b2-4873-822c-b2d4442fb17e.png)
 
 Alur aplikasi
-![login](https://user-images.githubusercontent.com/29254002/140611583-da5f9740-cd7a-474c-89ee-964c5b13d23e.jpg)
+     ![login](https://user-images.githubusercontent.com/29254002/140611583-da5f9740-cd7a-474c-89ee-964c5b13d23e.jpg)
 
 
