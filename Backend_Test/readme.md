@@ -34,6 +34,16 @@ Diagram Database
 ![Screenshot from 2021-11-06 10-39-58](https://user-images.githubusercontent.com/29254002/140611070-bac7aef4-91b2-4873-822c-b2d4442fb17e.png)
 
 Alur aplikasi
+
+
      ![login](https://user-images.githubusercontent.com/29254002/140611583-da5f9740-cd7a-474c-89ee-964c5b13d23e.jpg)
 
+
+Berhasil dockerize
+![Screenshot from 2021-11-06 23-54-53](https://user-images.githubusercontent.com/29254002/140617641-614ab3fa-4f31-4135-9479-633b17e3e081.png)
+
+
+
+menu login setelah docker runing
+![Screenshot from 2021-11-06 23-55-36](https://user-images.githubusercontent.com/29254002/140617660-7b34416a-bed8-4c89-80e6-ea8f8aab84a3.png)
 
