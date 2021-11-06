@@ -11,7 +11,7 @@ Langkah menjalankan program:
   1. buka terminal
   2. masuk ke folder Backend_Test
      cd Backend_Test
-     ![cd backend](https://user-images.githubusercontent.com/29254002/140611380-e9fc48f0-cebf-42d6-8883-6d58ed271b9e.png)
+     ![cd](https://user-images.githubusercontent.com/29254002/140611490-cc0dfb33-d16c-44ad-a3ff-e3e46c00714a.png)
      
   3. jalankan server 
      python manage.py runserver
