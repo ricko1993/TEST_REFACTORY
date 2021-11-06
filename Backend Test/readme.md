@@ -11,6 +11,8 @@ Langkah menjalankan program:
   1. buka terminal
   2. masuk ke folder Backend_Test
      cd Backend_Test
+     ![cd backend](https://user-images.githubusercontent.com/29254002/140611380-e9fc48f0-cebf-42d6-8883-6d58ed271b9e.png)
+
      ![cd backend](https://user-images.githubusercontent.com/29254002/140610357-94c36f81-a3e3-4be7-9122-6dbc77720465.png)
      
   3. jalankan server 
